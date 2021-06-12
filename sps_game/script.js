@@ -43,14 +43,3 @@ console.log(game())
 
 
 
-
-
-/*if(options[value]=='scissor'){
-    console.log('true')
-    console.log(options[value])
-}
-else{
-    console.log('false')
-    console.log(options[value])
-}
-*/
